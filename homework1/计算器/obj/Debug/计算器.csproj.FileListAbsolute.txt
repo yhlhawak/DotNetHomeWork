@@ -11,3 +11,10 @@ C:\CodeVein资料\DotNetHomeWork\计算器\obj\Debug\计算器.csprojAssemblyRef
 C:\CodeVein资料\DotNetHomeWork\计算器\obj\Debug\计算器.csproj.CoreCompileInputs.cache
 C:\CodeVein资料\DotNetHomeWork\计算器\obj\Debug\计算器.exe
 C:\CodeVein资料\DotNetHomeWork\计算器\obj\Debug\计算器.pdb
+C:\CodeVein资料\DotNetHomeWork\homework1\计算器\bin\Debug\计算器.exe.config
+C:\CodeVein资料\DotNetHomeWork\homework1\计算器\bin\Debug\计算器.exe
+C:\CodeVein资料\DotNetHomeWork\homework1\计算器\bin\Debug\计算器.pdb
+C:\CodeVein资料\DotNetHomeWork\homework1\计算器\obj\Debug\计算器.csprojAssemblyReference.cache
+C:\CodeVein资料\DotNetHomeWork\homework1\计算器\obj\Debug\计算器.csproj.CoreCompileInputs.cache
+C:\CodeVein资料\DotNetHomeWork\homework1\计算器\obj\Debug\计算器.exe
+C:\CodeVein资料\DotNetHomeWork\homework1\计算器\obj\Debug\计算器.pdb

@@ -56,7 +56,12 @@ namespace CalculatorWindow
                     ans = a * b;
                     break;
                 case '/':
-                    ans = a / b;
+                    if(b!=0)ans = a / b;
+                    else
+                    {
+                        textBox4.Text = "错误";
+                        return;
+                    }
                     break;
                 default:
                     textBox4.Text = "错误";

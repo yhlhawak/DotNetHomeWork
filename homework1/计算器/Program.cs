@@ -19,6 +19,8 @@ namespace Calculator
             else 
             { 
                 Console.WriteLine("输入不合法请重新运行程序");
+                Console.WriteLine("按任意键继续");
+                Console.ReadKey(true);
                 return;
             }
             Console.WriteLine("请输入第二个数字");
@@ -27,6 +29,8 @@ namespace Calculator
             else
             {
                 Console.WriteLine("输入不合法请重新运行程序");
+                Console.WriteLine("按任意键继续");
+                Console.ReadKey(true);
                 return;
             }
             Console.WriteLine("请输入运算符号");
@@ -35,6 +39,8 @@ namespace Calculator
             else
             {
                 Console.WriteLine("输入不合法请重新运行程序");
+                Console.WriteLine("按任意键继续");
+                Console.ReadKey(true);
                 return;
             }
             switch (x)
@@ -49,10 +55,20 @@ namespace Calculator
                     ans = a * b;
                     break;
                 case '/':
+                    if(b!=0)
                     ans = a / b;
+                    else
+                    {
+                        Console.WriteLine("输入不合法请重新运行程序");
+                        Console.WriteLine("按任意键继续");
+                        Console.ReadKey(true);
+                        return;
+                    }
                     break;
                 default:
                     Console.WriteLine("输入不合法请重新运行程序");
+                    Console.WriteLine("按任意键继续");
+                    Console.ReadKey(true);
                     return;
                     break;
             }
