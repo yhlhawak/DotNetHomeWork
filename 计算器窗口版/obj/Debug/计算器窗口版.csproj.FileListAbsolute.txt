@@ -1,0 +1,10 @@
+C:\CodeVein资料\DotNetHomeWork\计算器窗口版\obj\Debug\计算器窗口版.csprojAssemblyReference.cache
+C:\CodeVein资料\DotNetHomeWork\计算器窗口版\obj\Debug\计算器窗口版.Properties.Resources.resources
+C:\CodeVein资料\DotNetHomeWork\计算器窗口版\obj\Debug\计算器窗口版.csproj.GenerateResource.cache
+C:\CodeVein资料\DotNetHomeWork\计算器窗口版\obj\Debug\计算器窗口版.csproj.CoreCompileInputs.cache
+C:\CodeVein资料\DotNetHomeWork\计算器窗口版\bin\Debug\计算器窗口版.exe.config
+C:\CodeVein资料\DotNetHomeWork\计算器窗口版\bin\Debug\计算器窗口版.exe
+C:\CodeVein资料\DotNetHomeWork\计算器窗口版\bin\Debug\计算器窗口版.pdb
+C:\CodeVein资料\DotNetHomeWork\计算器窗口版\obj\Debug\CalculatorWindow.Form1.resources
+C:\CodeVein资料\DotNetHomeWork\计算器窗口版\obj\Debug\计算器窗口版.exe
+C:\CodeVein资料\DotNetHomeWork\计算器窗口版\obj\Debug\计算器窗口版.pdb
