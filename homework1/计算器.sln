@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算器", "计算器.csproj", "{A26987C0-22DF-446D-98F7-BAE0483EEF20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算器", "计算器\计算器.csproj", "{A26987C0-22DF-446D-98F7-BAE0483EEF20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算器窗口版", "..\计算器窗口版\计算器窗口版.csproj", "{516E6D83-6D86-434F-8A9B-67AC167EB2F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "计算器窗口版", "计算器窗口版\计算器窗口版.csproj", "{516E6D83-6D86-434F-8A9B-67AC167EB2F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
