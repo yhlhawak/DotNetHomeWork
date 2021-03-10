@@ -1,0 +1,7 @@
+C:\CodeVein资料\DotNetHomeWork\Homework2\Maxium\bin\Debug\Maxium.exe.config
+C:\CodeVein资料\DotNetHomeWork\Homework2\Maxium\bin\Debug\Maxium.exe
+C:\CodeVein资料\DotNetHomeWork\Homework2\Maxium\bin\Debug\Maxium.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework2\Maxium\obj\Debug\Maxium.csproj.CoreCompileInputs.cache
+C:\CodeVein资料\DotNetHomeWork\Homework2\Maxium\obj\Debug\Maxium.exe
+C:\CodeVein资料\DotNetHomeWork\Homework2\Maxium\obj\Debug\Maxium.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework2\Maxium\obj\Debug\Maxium.csprojAssemblyReference.cache
