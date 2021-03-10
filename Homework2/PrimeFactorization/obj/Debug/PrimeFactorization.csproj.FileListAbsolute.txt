@@ -5,3 +5,10 @@ C:\CodeVein资料\DotNetHomeWork\Homework2\Homework2\obj\Debug\PrimeFactorizatio
 C:\CodeVein资料\DotNetHomeWork\Homework2\Homework2\obj\Debug\PrimeFactorization.csproj.CoreCompileInputs.cache
 C:\CodeVein资料\DotNetHomeWork\Homework2\Homework2\obj\Debug\Homework2.exe
 C:\CodeVein资料\DotNetHomeWork\Homework2\Homework2\obj\Debug\Homework2.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework2\PrimeFactorization\bin\Debug\Homework2.exe.config
+C:\CodeVein资料\DotNetHomeWork\Homework2\PrimeFactorization\bin\Debug\Homework2.exe
+C:\CodeVein资料\DotNetHomeWork\Homework2\PrimeFactorization\bin\Debug\Homework2.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework2\PrimeFactorization\obj\Debug\PrimeFactorization.csprojAssemblyReference.cache
+C:\CodeVein资料\DotNetHomeWork\Homework2\PrimeFactorization\obj\Debug\PrimeFactorization.csproj.CoreCompileInputs.cache
+C:\CodeVein资料\DotNetHomeWork\Homework2\PrimeFactorization\obj\Debug\Homework2.exe
+C:\CodeVein资料\DotNetHomeWork\Homework2\PrimeFactorization\obj\Debug\Homework2.pdb

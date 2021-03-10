@@ -27,8 +27,12 @@ namespace PrimeFactorization
             foreach(int a in sieve.prime)
             {
                 if (number % a == 0)
-                { //answer.Add(a);
+                { 
                     Console.Write(a.ToString()+" ");
+                    number /= a;
+                }
+                while (number % a == 0)
+                {
                     number /= a;
                 }
             }
