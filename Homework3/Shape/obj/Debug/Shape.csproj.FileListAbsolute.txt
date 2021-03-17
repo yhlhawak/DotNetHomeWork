@@ -1,0 +1,7 @@
+C:\CodeVein资料\DotNetHomeWork\Homework3\Shape\bin\Debug\Shape.exe.config
+C:\CodeVein资料\DotNetHomeWork\Homework3\Shape\bin\Debug\Shape.exe
+C:\CodeVein资料\DotNetHomeWork\Homework3\Shape\bin\Debug\Shape.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework3\Shape\obj\Debug\Shape.csprojAssemblyReference.cache
+C:\CodeVein资料\DotNetHomeWork\Homework3\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\CodeVein资料\DotNetHomeWork\Homework3\Shape\obj\Debug\Shape.exe
+C:\CodeVein资料\DotNetHomeWork\Homework3\Shape\obj\Debug\Shape.pdb
