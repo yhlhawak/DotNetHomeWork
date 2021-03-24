@@ -1,0 +1,7 @@
+C:\CodeVein资料\DotNetHomeWork\Homework4\ArrayString\bin\Debug\ArrayString.exe.config
+C:\CodeVein资料\DotNetHomeWork\Homework4\ArrayString\bin\Debug\ArrayString.exe
+C:\CodeVein资料\DotNetHomeWork\Homework4\ArrayString\bin\Debug\ArrayString.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework4\ArrayString\obj\Debug\ArrayString.csprojAssemblyReference.cache
+C:\CodeVein资料\DotNetHomeWork\Homework4\ArrayString\obj\Debug\ArrayString.csproj.CoreCompileInputs.cache
+C:\CodeVein资料\DotNetHomeWork\Homework4\ArrayString\obj\Debug\ArrayString.exe
+C:\CodeVein资料\DotNetHomeWork\Homework4\ArrayString\obj\Debug\ArrayString.pdb

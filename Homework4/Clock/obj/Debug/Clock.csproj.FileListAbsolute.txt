@@ -1,0 +1,7 @@
+C:\CodeVein资料\DotNetHomeWork\Homework4\Clock\bin\Debug\Clock.exe.config
+C:\CodeVein资料\DotNetHomeWork\Homework4\Clock\bin\Debug\Clock.exe
+C:\CodeVein资料\DotNetHomeWork\Homework4\Clock\bin\Debug\Clock.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework4\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\CodeVein资料\DotNetHomeWork\Homework4\Clock\obj\Debug\Clock.exe
+C:\CodeVein资料\DotNetHomeWork\Homework4\Clock\obj\Debug\Clock.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework4\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
