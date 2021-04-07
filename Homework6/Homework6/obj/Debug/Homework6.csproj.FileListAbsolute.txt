@@ -1,0 +1,7 @@
+C:\CodeVein资料\DotNetHomeWork\Homework6\Homework6\bin\Debug\Homework6.exe.config
+C:\CodeVein资料\DotNetHomeWork\Homework6\Homework6\bin\Debug\Homework6.exe
+C:\CodeVein资料\DotNetHomeWork\Homework6\Homework6\bin\Debug\Homework6.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework6\Homework6\obj\Debug\Homework6.csprojAssemblyReference.cache
+C:\CodeVein资料\DotNetHomeWork\Homework6\Homework6\obj\Debug\Homework6.csproj.CoreCompileInputs.cache
+C:\CodeVein资料\DotNetHomeWork\Homework6\Homework6\obj\Debug\Homework6.exe
+C:\CodeVein资料\DotNetHomeWork\Homework6\Homework6\obj\Debug\Homework6.pdb
