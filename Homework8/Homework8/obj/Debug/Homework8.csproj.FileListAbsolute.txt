@@ -1,0 +1,14 @@
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\bin\Debug\Homework8.exe.config
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\bin\Debug\Homework8.exe
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\bin\Debug\Homework8.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\obj\Debug\Homework8.csprojAssemblyReference.cache
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\obj\Debug\Homework8.Properties.Resources.resources
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\obj\Debug\Homework8.csproj.GenerateResource.cache
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\obj\Debug\Homework8.csproj.CoreCompileInputs.cache
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\obj\Debug\Homework8.exe
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\obj\Debug\Homework8.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\bin\Debug\Homework6.exe
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\bin\Debug\Homework6.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\bin\Debug\Homework6.exe.config
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\obj\Debug\Homework8.MainForm.resources
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\obj\Debug\Homework8.csproj.CopyComplete

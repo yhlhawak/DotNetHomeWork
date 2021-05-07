@@ -1,0 +1,7 @@
+C:\CodeVein资料\DotNetHomeWork\Homework9\Homework9\bin\Debug\Homework9.exe.config
+C:\CodeVein资料\DotNetHomeWork\Homework9\Homework9\bin\Debug\Homework9.exe
+C:\CodeVein资料\DotNetHomeWork\Homework9\Homework9\bin\Debug\Homework9.pdb
+C:\CodeVein资料\DotNetHomeWork\Homework9\Homework9\obj\Debug\Homework9.csprojAssemblyReference.cache
+C:\CodeVein资料\DotNetHomeWork\Homework9\Homework9\obj\Debug\Homework9.csproj.CoreCompileInputs.cache
+C:\CodeVein资料\DotNetHomeWork\Homework9\Homework9\obj\Debug\Homework9.exe
+C:\CodeVein资料\DotNetHomeWork\Homework9\Homework9\obj\Debug\Homework9.pdb
