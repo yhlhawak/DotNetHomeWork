@@ -35,8 +35,17 @@
     
     
 </head>
-<body class="has-navbar">
+<body class="has-navbar has-bannerbar">
     <a name="top"></a>
+        <a target="_blank" href="https://www.aliyun.com/activity/daily/bestoffer?userCode=swh7dvlt" onclick="ga('send', 'event', 'Link', 'click', 'aliyun-cps-blog-bannerbar-pc')">
+            <div class="bannerbar aliyun forpc" style="background-size: contain;background-image: url(https://img2020.cnblogs.com/blog/35695/202104/35695-20210428221933214-737067094.jpg)">
+            </div>
+        </a>
+        <div id="bannerbar" class="bannerbar-mobile formobile">
+            <a href="https://developer.aliyun.com/learning/trainingcamp/realtime/1?utm_content=g_1000268661" target="_blank" onclick="ga('send', 'event', 'Link', 'click', 'aliyun-realtime-blog-bannerbar-mobile')">
+                <img src="https://img2020.cnblogs.com/blog/35695/202105/35695-20210509221214222-438425324.png" alt="" />
+            </a>
+        </div>
     <div id="top_nav" class="navbar forpc">
         <nav id="nav_main" class="navbar-main">
             <ul id="nav_left" class="navbar-list navbar-left">
@@ -142,7 +151,7 @@
         <p class="postfoot">
             posted @ 2005-10-08 12:12
 拓荒者
-<span data-post-id="250188" class="post-view-count">阅读(1199)</span> 
+<span data-post-id="250188" class="post-view-count">阅读(1200)</span> 
 <span data-post-id="250188" class="post-comment-count">评论(3)</span> 
 <span data-post-id="250188" class="post-digg-count">推荐(0)</span> 
 <a href="https://i.cnblogs.com/EditPosts.aspx?postid=250188" rel="nofollow">
@@ -233,6 +242,6 @@
 
     
 
-    <input type="hidden" id="antiforgery_token" value="CfDJ8L-rpLgFVEJMgssCVvNUAjsWKvnS6kwjpm3oTQQ01WMFhFhmhHVOtGKcGUyakpIZcuQhD-yGTv6avK62jYRVpooEgCQqFzxqoY7IXRB03NSaPBFktGGqcnIsgxGpZbN2uaQg-ewqXvVVhDDZckQQqqY" />
+    <input type="hidden" id="antiforgery_token" value="CfDJ8L-rpLgFVEJMgssCVvNUAjuboNv8Z3nKmF8CkTAIgJjXUas8as6pRxkBmPH2sfJijOOtO05NWXFIdahRfAs8E5Lu73cqAwXR2WJaWojABvo_6KWWmI1w-c8JBKOWkDv9axBA1ZXRjbSVyu4ZEzwrYyY" />
 </body>
 </html>

@@ -11,47 +11,34 @@ using System.Text.RegularExpressions;
 
 namespace Homework9
 {
-    class SimpleCrawler
+    public class SimpleCrawler
     {
         private Hashtable urls = new Hashtable();
+        private Queue<string> queue = new Queue<string>();
+        private int MaxPage = 20;
+        private Dictionary<string, bool> pagedictionary = new Dictionary<string, bool>();
         private int count = 0;
-        public static string strRef = @"(href|HREF)[]*=[]*[""'](?<url>[^""'#>]+)[""']";//判断此是否位href
+        public static string strRef = @"(href|HREF)[]*=[]*[""'](?<url>[^""'#>]+)[""']";//判断此是否为href，并单独把url取出来
         public static string protocalRef = @"^(?<site>(?<protocal>https?)://(?<host>[\w.-]+)(:\d+)?($|/))(\w+/)*(?<file>[^#?]*)";//判断其为何种链接
         public static string isFile = @"((.html?|.aspx|.jsp|.php)$|^[^.]+$)";
-        public string Host = "";
-        static void Main(string[] args)
+        public string Host = ""; 
+        public string startUrl { get; set; }
+        public List<Page> donloadPages { get; set; } = new List<Page>();
+        public void Start()
         {
-            SimpleCrawler myCrawler = new SimpleCrawler();
-            string startUrl = "http://www.cnblogs.com/dstang2000/";
-            if (args.Length >= 1) startUrl = args[0];
-            myCrawler.urls.Add(startUrl, false);//加入初始页面
-            Match match = Regex.Match(startUrl, protocalRef);
-            if (match.Length == 0) return;
-            string host = match.Groups["host"].Value;
-            myCrawler.Host = "^" + host + "$";
-            new Thread(myCrawler.Crawl).Start();
-            Console.ReadLine();
-        }
 
-        private void Crawl()
-        {
-            Console.WriteLine("开始爬行了.... ");
-            while (true)
+            pagedictionary.Clear();
+            queue.Clear();
+            queue.Enqueue(startUrl);
+            while (queue.Count > 0&& pagedictionary.Count < MaxPage)
             {
-                string current = null;
-                foreach (string url in urls.Keys)
-                {
-                    if ((bool)urls[url]) continue;
-                    current = url;
-                }
-                if (current == null || count > 100) break;
-                Console.WriteLine("爬行" + current + "页面!");
-                string html = DownLoad(current); // 下载
-                urls[current] = true;
-                count++;
-                Parse(html,current);//解析,并加入新的链接
-                Console.WriteLine("爬行结束");
+                string currentpage = queue.Dequeue();
+                string page = DownLoad(currentpage);
+                if(!pagedictionary.ContainsKey(currentpage))donloadPages.Add(new Page(currentpage, DateTime.Now));
+                pagedictionary[currentpage] = true;
+                Parse(page, currentpage);
             }
+
         }
 
         public string DownLoad(string url)
@@ -83,10 +70,10 @@ namespace Homework9
                 Match isurl = Regex.Match(linkUrl, protocalRef);
                 string host = isurl.Groups["host"].Value;
                 string file = isurl.Groups["file"].Value;
-                if (Regex.IsMatch(file, isFile) &&Regex.IsMatch(host, Host)) 
-                { 
-                    if (urls[linkUrl] == null) urls[linkUrl] = false;
-                    if (linkUrl.Length == 0) continue; 
+                
+                if (Regex.IsMatch(file, isFile) &&Regex.IsMatch(host, Host)&& !pagedictionary.ContainsKey(linkUrl)) 
+                {   Console.WriteLine(linkUrl);
+                    queue.Enqueue(linkUrl);
                     
                 }
             }

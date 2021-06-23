@@ -35,8 +35,17 @@
     
     
 </head>
-<body class="has-navbar">
+<body class="has-navbar has-bannerbar">
     <a name="top"></a>
+        <a target="_blank" href="https://www.aliyun.com/activity/daily/bestoffer?userCode=swh7dvlt" onclick="ga('send', 'event', 'Link', 'click', 'aliyun-cps-blog-bannerbar-pc')">
+            <div class="bannerbar aliyun forpc" style="background-size: contain;background-image: url(https://img2020.cnblogs.com/blog/35695/202104/35695-20210428221933214-737067094.jpg)">
+            </div>
+        </a>
+        <div id="bannerbar" class="bannerbar-mobile formobile">
+            <a href="https://developer.aliyun.com/learning/trainingcamp/realtime/1?utm_content=g_1000268661" target="_blank" onclick="ga('send', 'event', 'Link', 'click', 'aliyun-realtime-blog-bannerbar-mobile')">
+                <img src="https://img2020.cnblogs.com/blog/35695/202105/35695-20210509221214222-438425324.png" alt="" />
+            </a>
+        </div>
     <div id="top_nav" class="navbar forpc">
         <nav id="nav_main" class="navbar-main">
             <ul id="nav_left" class="navbar-list navbar-left">
@@ -142,7 +151,7 @@
         <p class="postfoot">
             posted @ 2005-03-06 08:55
 拓荒者
-<span data-post-id="113796" class="post-view-count">阅读(481)</span> 
+<span data-post-id="113796" class="post-view-count">阅读(482)</span> 
 <span data-post-id="113796" class="post-comment-count">评论(2)</span> 
 <span data-post-id="113796" class="post-digg-count">推荐(0)</span> 
 <a href="https://i.cnblogs.com/EditArticles.aspx?postid=113796" rel="nofollow">
@@ -177,7 +186,7 @@
         <p class="postfoot">
             posted @ 2005-03-06 00:56
 拓荒者
-<span data-post-id="113761" class="post-view-count">阅读(1580)</span> 
+<span data-post-id="113761" class="post-view-count">阅读(1581)</span> 
 <span data-post-id="113761" class="post-comment-count">评论(5)</span> 
 <span data-post-id="113761" class="post-digg-count">推荐(0)</span> 
 <a href="https://i.cnblogs.com/EditPosts.aspx?postid=113761" rel="nofollow">
@@ -268,6 +277,6 @@
 
     
 
-    <input type="hidden" id="antiforgery_token" value="CfDJ8L-rpLgFVEJMgssCVvNUAjtQhrrCJfMLAxsJDzJFbR7sKQo_RR7F_YlnsjleWS8CdrQ2JZy-RAXPfVWM5pxtfn0dIOt7jH-3h6TwM0IsFtgc235TiELQoDcG8SmoplawbzvpSUMK9bBqqCvvTJ4B_6I" />
+    <input type="hidden" id="antiforgery_token" value="CfDJ8L-rpLgFVEJMgssCVvNUAjvHp2vmrUKkI_S4AaCLGjkvWqGhB0UBKilFUAnio9ChazTz_shaz1tHbQ2iqP8RKV5uWEtgr1tTYVfKfGllEYI-FMbT9FeCPkh8DWeWu1PtOaCPtFpnwCrwr3lgzr3z5RA" />
 </body>
 </html>

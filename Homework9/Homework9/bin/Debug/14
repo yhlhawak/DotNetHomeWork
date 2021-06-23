@@ -38,8 +38,17 @@
     
     
 </head>
-<body class="has-navbar">
+<body class="has-navbar has-bannerbar">
     <a name="top"></a>
+        <a target="_blank" href="https://www.aliyun.com/activity/daily/bestoffer?userCode=swh7dvlt" onclick="ga('send', 'event', 'Link', 'click', 'aliyun-cps-blog-bannerbar-pc')">
+            <div class="bannerbar aliyun forpc" style="background-size: contain;background-image: url(https://img2020.cnblogs.com/blog/35695/202104/35695-20210428221933214-737067094.jpg)">
+            </div>
+        </a>
+        <div id="bannerbar" class="bannerbar-mobile formobile">
+            <a href="https://developer.aliyun.com/learning/trainingcamp/realtime/1?utm_content=g_1000268661" target="_blank" onclick="ga('send', 'event', 'Link', 'click', 'aliyun-realtime-blog-bannerbar-mobile')">
+                <img src="https://img2020.cnblogs.com/blog/35695/202105/35695-20210509221214222-438425324.png" alt="" />
+            </a>
+        </div>
     <div id="top_nav" class="navbar forpc">
         <nav id="nav_main" class="navbar-main">
             <ul id="nav_left" class="navbar-list navbar-left">
@@ -290,6 +299,6 @@ LoadPostCategoriesTags(cb_blogId, cb_entryId);       LoadPostInfoBlock(cb_blogId
 
     
 
-    <input type="hidden" id="antiforgery_token" value="CfDJ8L-rpLgFVEJMgssCVvNUAjvI3sVWUi99AGw2XJtoXhc2rvbgTaPtTaRPc9BbEs4ErIfzDaSduJ8Wl-p9rScFWhuCdHuQUQKlPKYa5Wbb2KjrnmagV0z69VvKO_vLLW7q9dU5KWIm0rb3Z8W01aAmsOA" />
+    <input type="hidden" id="antiforgery_token" value="CfDJ8L-rpLgFVEJMgssCVvNUAjuVud0NNAPOFMOPS0khY4lyGNAwPi6exSdhPfS4T7yClo1aqSkJQapyGuIYLYzatzTZcPjmRs15INdwm6pgqVeCZjOpUbNA1ALX1zi81c92ihieHeCfH8L7_x4fh_RGcbk" />
 </body>
 </html>

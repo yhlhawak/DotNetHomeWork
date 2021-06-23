@@ -123,9 +123,9 @@ namespace CalculatorWindow
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(357, 85);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(41, 12);
+            this.label5.Size = new System.Drawing.Size(29, 12);
             this.label5.TabIndex = 9;
-            this.label5.Text = "数字二";
+            this.label5.Text = "结果";
             this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // Form1

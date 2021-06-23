@@ -38,8 +38,17 @@
     
     
 </head>
-<body class="has-navbar">
+<body class="has-navbar has-bannerbar">
     <a name="top"></a>
+        <a target="_blank" href="https://www.aliyun.com/activity/daily/bestoffer?userCode=swh7dvlt" onclick="ga('send', 'event', 'Link', 'click', 'aliyun-cps-blog-bannerbar-pc')">
+            <div class="bannerbar aliyun forpc" style="background-size: contain;background-image: url(https://img2020.cnblogs.com/blog/35695/202104/35695-20210428221933214-737067094.jpg)">
+            </div>
+        </a>
+        <div id="bannerbar" class="bannerbar-mobile formobile">
+            <a href="https://developer.aliyun.com/learning/trainingcamp/realtime/1?utm_content=g_1000268661" target="_blank" onclick="ga('send', 'event', 'Link', 'click', 'aliyun-realtime-blog-bannerbar-mobile')">
+                <img src="https://img2020.cnblogs.com/blog/35695/202105/35695-20210509221214222-438425324.png" alt="" />
+            </a>
+        </div>
     <div id="top_nav" class="navbar forpc">
         <nav id="nav_main" class="navbar-main">
             <ul id="nav_left" class="navbar-list navbar-left">
@@ -140,7 +149,7 @@
             posted on 
 <span id="post-date">2005-03-06 08:55</span>&nbsp;
 <a href="https://www.cnblogs.com/dstang2000/">拓荒者</a>&nbsp;
-阅读(<span id="post_view_count">480</span>)&nbsp;
+阅读(<span id="post_view_count">482</span>)&nbsp;
 评论(<span id="post_comment_count">2</span>)&nbsp;
 <a href="https://i.cnblogs.com/EditArticles.aspx?postid=113796" rel="nofollow">编辑</a>&nbsp;
 <a href="javascript:void(0)" onclick="AddToWz(113796);return false;">收藏</a>
@@ -274,6 +283,6 @@ LoadPostCategoriesTags(cb_blogId, cb_entryId);       LoadPostInfoBlock(cb_blogId
 
     
 
-    <input type="hidden" id="antiforgery_token" value="CfDJ8L-rpLgFVEJMgssCVvNUAjs9otlYiy_g9mQz1QlxQ3n_Mizajs0lXGF_b1rBjjTUr4nKrY4DBIMk-G2Ox7FetM3k0QMc-_g2CMrwjaFQrmBtcAyd2ohJadXvQdTerMWf7NYF8g0ZusZat4JBRwZouWM" />
+    <input type="hidden" id="antiforgery_token" value="CfDJ8L-rpLgFVEJMgssCVvNUAjs3rn8_skc_XQhriFL8nuDo6lpIkAVb-xZo2QKJFIfxfW2dJ9E4yO-qdfumWep-jLhm96gy2P33CgUyu7at0YGCiDBr3-6eQkjMILTrBXQcxD2ymo15rhfQ3TCaHd9Nu2o" />
 </body>
 </html>
