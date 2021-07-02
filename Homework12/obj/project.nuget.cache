@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DTKywYJ6gzIVfPz+AdoyD8YsSbMEESSjoVhYT+dUMko0yAD+bhAJwRF5MrhCpnX2yMb3uiGVsJEt8kLaTXQFmw==",
+  "success": true,
+  "projectFilePath": "C:\\CodeVein资料\\DotNetHomeWork\\Homework12\\OrderManagerWeb.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

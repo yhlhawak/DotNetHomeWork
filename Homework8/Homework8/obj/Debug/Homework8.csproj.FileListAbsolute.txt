@@ -12,3 +12,4 @@ C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\bin\Debug\Homework6.pdb
 C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\bin\Debug\Homework6.exe.config
 C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\obj\Debug\Homework8.MainForm.resources
 C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\obj\Debug\Homework8.csproj.CopyComplete
+C:\CodeVein资料\DotNetHomeWork\Homework8\Homework8\obj\Debug\Homework8.AddForm.resources
